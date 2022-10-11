@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196381279613",
+    "project_id": "hungerbuddy-698f2",
+    "storage_bucket": "hungerbuddy-698f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196381279613:android:7d063afa6213ab1a05f814",
+        "android_client_info": {
+          "package_name": "com.amati.hungerbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196381279613-c46of9115jat369m9emkp8nh20utemmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARSrQjiDfwsPaVLN2bDBaRf9XqvnuplyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196381279613-c46of9115jat369m9emkp8nh20utemmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
